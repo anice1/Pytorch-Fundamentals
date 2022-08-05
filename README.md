@@ -18,9 +18,7 @@ The pytorch fundamentals notebooks covers mostly the following topics:
 - PyTorch and NumPy
 
 ```
-[]: # Language: markdown
-This repo is a work in progress. Hence, it will be updated regularly.
+Hey there! I'm a new Pytorch user.
 
-[]: # Language: markdown
-[]: # Path: README.md
+This repo is a work in progress. Hence, it will be updated regularly.
 ```
